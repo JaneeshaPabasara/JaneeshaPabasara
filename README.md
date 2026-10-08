@@ -1,8 +1,8 @@
-# Hi, I'm Janeesha Pabasara 👋
+# Hi, I'm Janeesha Pabasara
 
 ## Data Science Undergraduate | Data Analyst
 
-I am a third-year Information Technology undergraduate specializing in Data Science at SLIIT. I enjoy transforming real-world data into useful insights and building machine-learning applications that solve practical problems.
+I am a third-year second semester Information Technology undergraduate specializing in Data Science at SLIIT. I enjoy transforming real-world data into useful insights and building machine-learning applications that solve practical problems.
 
 ---
 
