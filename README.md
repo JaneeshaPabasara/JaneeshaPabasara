@@ -43,5 +43,5 @@ An end-to-end analytics project using more than one million LAPD crime records f
 
 ## Connect With Me
 
-**LinkedIn:** [linkedin.com/in/janeesha-pabasara](https://www.linkedin.com/in/janeesha-pabasara/)  
+**LinkedIn:** [linkedin.com/in/janeesha-pabasara](www.linkedin.com/in/janeesha-pabasara-3128ba317)  
 **Email:** [janeeshapaba@gmail.com](mailto:janeeshapaba@gmail.com)
