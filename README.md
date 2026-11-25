@@ -2,15 +2,16 @@
 
 ## Data Science Undergraduate | Data Analyst
 
-I am a third-year second semester Information Technology undergraduate specializing in Data Science at SLIIT. I enjoy transforming real-world data into useful insights and building machine-learning applications that solve practical problems.
+I am a Fourth-year Information Technology undergraduate specializing in Data Science at SLIIT.I am passionate about AI engineering, exploring Generative AI, multi-agent systems, and developing intelligent AI-powered solutions and also enjoy transforming real-world data into useful insights and building machine-learning applications that solve practical problems.
 
 ---
 
 ## About Me
 
-- Interested in data analytics, machine learning, business intelligence, and AI systems
-- Experienced in data cleaning, statistical analysis, predictive modeling, ETL, and dashboard development
-- Dean's List recipient for Year 2, Semester 2
+- Interested in Data Analytics, Machine Learning, Business Intelligence, AI Engineering, and Generative AI.
+- Experienced in data cleaning, statistical analysis, predictive modeling, ETL pipelines, and dashboard development.
+- Exploring Generative AI, RAG, multi-agent systems, and building intelligent AI-powered applications.
+- Dean's List recipient – Year 2, Semester 2 (SLIIT).
 
 ---
 
